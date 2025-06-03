@@ -1,21 +1,11 @@
-# Introduction
-## Tamarac
-### Russian uses of tamarac
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-Coffee comes from *Coffea arabica* while tea belongs to the genus _Thea_.
+<param ve-config 
+title="What We Know Now: Tracing the Tamarack"    source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"   banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg" 
+height=100
+author="Hannah Hardenbergh"
+layout="vertical">
 
-# Nutmeg
-
-**Coffee** is an important commodity.
-__Tea__ is also another important commodity.
-
-I love ***coffee and tea***.
-
-> To err is human, to forgive divine.
-
-I work at the [Department of Biology](https://www.aub.edu.lb/fas/biology/Pages/biologydept.aspx) at the [American University of Beirut](www.aub.edu.lb).
-
-I love [Campanulas](Q157069).
 
 
 
