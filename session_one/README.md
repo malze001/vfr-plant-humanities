@@ -18,6 +18,9 @@ layout="vertical">
 	   caption="Swipe across images to view the conditions of the European Larch, Larix decidua, in winter and in summer."> 
 <param ve-compare
 	   src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
+	   
+<param ve-iframe
+	   src="https://archive.org/details/northamericansyl03mich/page/n6/mode/1up">
 
 	   
 	   
