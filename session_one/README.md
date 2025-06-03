@@ -15,8 +15,7 @@ layout="vertical">
 	   
 <param ve-compare
 	   src="wc:Larix_sibirica_-_Siperianlehtikuusi,_Sibirisk_lärk,_Siberian_larch_IMG_9213_C.JPG"
-	   caption="Swipe across images to view the conditions of the European Larch, Larix decidua, in winter and in summer.">
-	   
+	   caption="Swipe across images to view the conditions of the European Larch, Larix decidua, in winter and in summer."> 
 <param ve-compare
 	   src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
 
