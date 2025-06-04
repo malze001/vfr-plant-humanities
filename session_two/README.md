@@ -12,6 +12,7 @@ layout="vertical">
 
 During the colonial era, Maya beliefs in maize as a sacred plant clashed with European understandings of the crop. Spanish colonizers often publicly denigrated foods like maize as "dangerous to the European constitution." But even as the Spanish publicly disdained maize, there is ample evidence that they recognized the utility—and scrumptiousness—of the crop. Inca Garcilaso de la Vega (1539–1616) recounted how one group of conquistadors inhaled maize "as if it were sugared almonds." Indeed, there are records of conquistadors enjoying atole, a maize beverage, and eating puddings made of maize.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS74GQ_JrlKEFbR7q5TkfVMwGxYtNXuv7AvESCKmXEw_jwDUC3ixHPZ2hHabNfr1Rnj8AI94AQp7mUA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<param ve-iframe 
+	   src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS74GQ_JrlKEFbR7q5TkfVMwGxYtNXuv7AvESCKmXEw_jwDUC3ixHPZ2hHabNfr1Rnj8AI94AQp7mUA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 	   
