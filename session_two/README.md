@@ -1,21 +1,19 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+# Here is where I am.
 
-<param ve-config 
-title="Maize: Sacred Plant, Global Commodity"    
-source-image="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"   
-	banner="gh:JSTOR-Labs/plant-humanities/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg" 
-height=100
-author="Julia Fine"
-layout="vertical">
-
-# Colonial and Postcolonial Eras
-
-During the colonial era, Maya beliefs in maize as a sacred plant clashed with European understandings of the crop. Spanish colonizers often publicly denigrated foods like maize as "dangerous to the European constitution." [^1] But even as the Spanish publicly disdained maize, there is ample evidence that they recognized the utility—and scrumptiousness—of the crop. Inca Garcilaso de la Vega (1539–1616) recounted how one group of conquistadors inhaled maize "as if it were sugared almonds." [^2] Indeed, there are records of conquistadors enjoying atole, a maize beverage, and eating puddings made of maize.
-
-<param ve-iframe 
-	   src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS74GQ_JrlKEFbR7q5TkfVMwGxYtNXuv7AvESCKmXEw_jwDUC3ixHPZ2hHabNfr1Rnj8AI94AQp7mUA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<param ve-map
+	   center="33.899989,35.482117"
+	   zoom="18"
+	   caption="This is the location of the American University of Beirut in Beirut, Lebanon.">
 	   
-[^1]: Rebecca Earle, The Body of the Conquistador (Cambridge: Cambridge University Press, 2014), 143.
-[^2]: Garcilaso de la Vega, Royal Commentaries, book 9, chap. 24 (vol. I, p. 594). Quoted in Earle, The Body of the Conquistador, 143.
+# Now check this.  Here is where our instructor is.
 
+<param ve-map
+	   center="Q1264942"
+	   zoom="18"
+	   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
 	   
+# Here is a nice video for you to watch.
+<param ve-video
+	   src="BJQa9UR8ZyM"
+	   start="10"
+	   end="20">
